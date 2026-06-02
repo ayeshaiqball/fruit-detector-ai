@@ -1,4 +1,4 @@
-# 🍌🍍🐉 Fruit Classifier AI (Streamlit + ML + DL + Roboflow)
+# Fruit Classifier AI (Streamlit + ML + DL + Roboflow)
 
 An AI-powered web application that classifies fruits into **three categories: Banana, Pineapple, and Dragon/Snake Fruit** using Machine Learning, Deep Learning, and a Roboflow-trained model.
 
