@@ -59,7 +59,7 @@ The model can classify the following fruits:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fruit-classifier-ai.git
+git clone https://github.com/ayeshaiqball/fruit-classifier-ai.git
 ```
 
 2. Go to project folder:
